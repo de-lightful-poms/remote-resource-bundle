@@ -27,7 +27,7 @@
 
   <groupId>de.lightful.poms</groupId>
   <artifactId>remote-resource-bundle</artifactId>
-  <version>2</version>
+  <version>3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>de.lightful :: POMs :: Remote Resource Bundle</name>
